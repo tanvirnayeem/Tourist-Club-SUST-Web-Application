@@ -1,4 +1,5 @@
 <head>
+
         <meta charset="utf-8') !!}
         <meta http-equiv="X-UA-Compatible" content="IE=edge') !!}
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,16 +46,16 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js') !!}</script>
         <![endif]-->
         <style type="text/css">
-            .masiur-navlogo-pos {
+            .tanvir-navlogo-pos {
                 position: absolute;
                 left: 12%;
                 top: 24%;
             }
-            .masiur-developers-corner-name {
+            .tanvir-developers-corner-name {
                 font-size: large;
                 font-family: cursive;
             }
-            .masiur-developers-corner-text {
+            .tanvir-developers-corner-text {
                 font-size: large;
                 font-family: inherit;
             }

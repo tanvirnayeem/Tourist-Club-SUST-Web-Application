@@ -31,7 +31,7 @@
                     </div>
                     <div class="col-sm-8 text-right">
                         <ul class="list-inline top-dark-right">                      
-                            <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> +880-1676435946</li>
+                            <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> +880-1986344157</li>
 
                             @if(auth()->check())
                                 @role('admin')
